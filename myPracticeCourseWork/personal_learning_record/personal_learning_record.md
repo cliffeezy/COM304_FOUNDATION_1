@@ -3,11 +3,11 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
-| Student Name | |
-| Student Number | |
-| Student Email | |
-| Github Account Username | |
-| Github Submission Repository URL | |
+| Student Name | Clifford Lengalenga |
+| Student Number | Q103124050 |
+| Student Email | 0lengm50@solent.ac.uk |
+| Github Account Username | cliffeezy |
+| Github Submission Repository URL | https://github.com/cliffeezy/COM304_FOUNDATION_1/tree/main |
 
 ## Introduction
 
