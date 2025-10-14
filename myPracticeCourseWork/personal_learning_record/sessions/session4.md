@@ -3,14 +3,13 @@
 # Session 4
 
 ## Topics covered
-*What topics were covered in this session*
 
-
+- Raspberry PI
+- Project Management
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
-
+- Waterfall methodology is a method of project management that follows a linear and sequential designing process. In other words, before you start the next phase you must complete the last one. It was the first approach to be used for software development. People often use this approach as it is easy to understand and ensures that any errors with the software are detected early. However, some people might refrain from using since it doesn't offer much flexibility and it's not great for project with short deadlines.
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
