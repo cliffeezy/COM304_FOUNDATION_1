@@ -13,9 +13,8 @@
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
 
-
+- Making an azure account, 
 
 ## Summary of learning
 *What did you learn through these exercises*
