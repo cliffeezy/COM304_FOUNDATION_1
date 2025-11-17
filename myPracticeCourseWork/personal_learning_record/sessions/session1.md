@@ -15,6 +15,7 @@
 - The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete. The waterfall approach does not define the process to go back to the previous phase to handle changes in requirement. The waterfall approach is the earliest approach that was used for software development.
 - Agile is based on iterative and incremental development, where requirements and solutions evolve through collaboration between cross-functional teams.It can be used with any type of the project, but it needs more involvement from the customer and to be interactive. Also, it can be used when the customer needs to have some functional requirement ready in less than three weeks.
 - A kanban board is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency (or flow). It can help both agile and DevOps teams establish order in their daily work. Kanban boards use cards, columns, and continuous improvement to help technology and service teams commit to the right amount of work, and get it done!
+- [Agile Vs Kanban](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6005514)  Thesing, T., Feldmann, C. and Burchardt, M., 2021. Agile versus waterfall project management: decision model for selecting the appropriate approach to a project. Procedia Computer Science, 181, pp.746-756.
 
 ## Exercises and results
 
